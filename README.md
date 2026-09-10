@@ -32,3 +32,9 @@ sdjf _sdj_
 lksdff __sjdfn__
 
 >udhfafs
+>sd
+>sds
+>d
+
+
+![Header Animasi](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Halo,%20Aku%20Seftian!&fontSize=40&animation=fadeIn)
