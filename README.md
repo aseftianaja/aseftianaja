@@ -1,18 +1,12 @@
-## Hi there 👋 ##
+# Halo, Aku [Nama Siswa] 👋
 
-# iam
-## ehe
-### heheheee ##oilah##
+## Tentang Aku
+- 🏫 Sekolah di SMK [Nama Sekolah]
+- 💡 Suka belajar **Web Design** dan **Frontend**
 
-- hahah
-- ask
+## Skill
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-1. jasd
-2. adsk
-
-jokow []
-
-dkdm #kddk#
-dkdk ##kddk##
-
-kkdk ###ddkk###
+## Kontak
+[Instagram Aku](https://instagram.com/username)
