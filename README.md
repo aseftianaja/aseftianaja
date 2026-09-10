@@ -15,4 +15,4 @@ jokow []
 dkdm #kddk#
 dkdk ##kddk##
 
-kkdk###ddkk###
+kkdk ###ddkk###
