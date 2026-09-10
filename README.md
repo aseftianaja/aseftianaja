@@ -11,4 +11,5 @@
 ## Kontak
 [Instagram Aku](https://instagram.com/username)
 
-https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge
+![W3C Validation](https://img.shields.io/w3c-validation/:parser)
+
