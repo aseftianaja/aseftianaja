@@ -11,5 +11,4 @@
 ## Kontak
 [Instagram Aku](https://instagram.com/username)
 
-![W3C Validation](https://img.shields.io/w3c-validation/:parser)
-
+![CSS3](https://img.shields.io/badge/logo-javascript-blue?logo=javascript&logoColor=f5f5f5)
